@@ -6,7 +6,7 @@ A lightweight intelligent interactive system prototype for generating explainabl
 
 **Working prototype; initial generation and correction/replanning flow demonstrated.**
 
-The screenshots in `images/` document the initial task entry, DeepSeek-generated plan and rationale, correction interface, and revised recommendation after changing the Group Project deadline from 2 December to 26 November 2026.
+The report documents six screenshots captured from the running prototype. The screenshots should be uploaded into the `images/` folder using the filenames listed in the report. The repository currently contains the report and application source; screenshot binaries are not yet present.
 
 This is a functional demonstration, not evidence of a formal user study or improved academic outcomes.
 
@@ -39,13 +39,7 @@ AI-Study-Planner/
 ├── README.md
 ├── templates/
 │   └── index.html
-├── images/
-│   ├── figure-01-initial-task-input.png
-│   ├── figure-02-initial-ai-plan.png
-│   ├── figure-03-initial-rationale-and-assumptions.png
-│   ├── figure-04-correction-interface.png
-│   ├── figure-05-revised-plan-and-ranking.png
-│   └── figure-06-correction-explanation.png
+├── images/                         # Upload the six evidence screenshots here
 └── docs/
     └── A2_Project_Report.md
 ```
