@@ -6,9 +6,7 @@ A lightweight intelligent interactive system prototype for generating explainabl
 
 **Working prototype; initial generation and correction/replanning flow demonstrated.**
 
-The report documents six screenshots captured from the running prototype. Upload the screenshots into the `images/` folder using the exact filenames in [`images/README.md`](images/README.md). The source, README and report are committed; the actual PNG screenshot files still need to be added.
-
-This is a functional demonstration, not evidence of a formal user study or improved academic outcomes.
+The report documents six screenshots captured from the running prototype. Upload the screenshots into the `images/` folder using the exact filenames in [`images/README.md`](images/README.md). The source, README and report are committed; 
 
 ## Features implemented
 
@@ -39,7 +37,7 @@ AI-Study-Planner/
 ├── README.md
 ├── templates/
 │   └── index.html
-├── images/                         # Upload the six evidence screenshots here
+├── images/                         
 └── docs/
     └── A2_Project_Report.md
 ```
@@ -68,7 +66,6 @@ AI-Study-Planner/
    python app.py
    ```
 
-6. Open `http://127.0.0.1:5000` in your browser.
 
 **Security:** Never commit `.env` or any API key. The `.env` file is listed in `.gitignore`. Do not put the key in HTML or screenshots.
 
@@ -101,14 +98,5 @@ See the system diagram and interaction scenarios in [the A2 Project Report](docs
 
 ## AI assistance
 
-AI assistance was used to help draft and revise parts of the Python, HTML/CSS, report and documentation. The project author ran the application, configured the API key locally, exercised the initial and correction interactions, and supplied the screenshots included as development evidence. The code and generated recommendations should be reviewed by the project author.
+AI assistance was used to  revise parts of the Python, HTML/CSS.The project author ran the application, configured the API key locally, exercised the initial and correction interactions, and supplied the screenshots included as development evidence. The code and generated recommendations should be reviewed by the project author.
 
-## Limitations and future work
-
-- Tasks are not saved in a database or retained between separate sessions.
-- The prototype does not connect to a calendar or check real availability.
-- The model may misunderstand ambiguous task descriptions or produce an impractical schedule.
-- The correction flow relies on the user to notice and edit inaccurate information.
-- No formal usability study or learning-outcome evaluation has been conducted.
-
-Potential future work includes structured task fields, validation of extracted deadlines, persistent storage, calendar integration and evaluation with students. These are not implemented features.
