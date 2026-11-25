@@ -113,6 +113,8 @@ def index():
 
         if not tasks:
             error = "Please enter at least one assignment."
+        elif action == "replan" and not previous_plan:
+            error = "The previous plan is missing. Generate a plan before requesting a revision."
         else:
             try:
                 result = ask_deepseek(
