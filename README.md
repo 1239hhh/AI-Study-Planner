@@ -6,7 +6,7 @@ A lightweight intelligent interactive system prototype for generating explainabl
 
 **Working prototype; initial generation and correction/replanning flow demonstrated.**
 
-The report documents six screenshots captured from the running prototype. The screenshots should be uploaded into the `images/` folder using the filenames listed in the report. The repository currently contains the report and application source; screenshot binaries are not yet present.
+The report documents six screenshots captured from the running prototype. Upload the screenshots into the `images/` folder using the exact filenames in [`images/README.md`](images/README.md). The source, README and report are committed; the actual PNG screenshot files still need to be added.
 
 This is a functional demonstration, not evidence of a formal user study or improved academic outcomes.
 
