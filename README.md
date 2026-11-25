@@ -93,7 +93,7 @@ See the system diagram and interaction scenarios in [the A2 Project Report](docs
 - Confirmed that the API generated a task ranking, schedule, priority rationale and assumptions for a two-task example.
 - Added a correction form that allows assignment information to be edited after the first response.
 - Added a replanning request that sends corrected task information and the previous response to DeepSeek.
-- Demonstrated a deadline correction from 2 December to 26 November 2026; the revised response ranked the Group Project first and described the change.
+- Demonstrated a deadline correction;the revised response ranked the Group Project first and described the change.
 - Added Markdown rendering and sanitisation for the model response.
 
 ## AI assistance
