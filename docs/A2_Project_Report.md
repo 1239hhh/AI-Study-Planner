@@ -118,12 +118,12 @@ The following figures are screenshots captured from the running prototype during
 
 ## Repository and Development Evidence
 
-The repository contains the Flask application, HTML template, dependency list, environment-variable example, README, report and screenshots. The screenshots in `images/` document the initial task entry, generated plan, correction interface and revised plan. The current prototype was manually exercised with a two-assignment example and a changed deadline. This is functional demonstration evidence, not a formal user study.
+The repository contains the Flask application, HTML template, dependency list, environment-variable example, README and report. Six screenshots captured during the demonstrated interaction are supplied separately and should be uploaded into `images/` using the filenames listed in `images/README.md`; the report embeds those image paths. The current prototype was manually exercised with a two-assignment example and a changed deadline. This is functional demonstration evidence, not a formal user study.
 
 **GitHub repository:** https://github.com/1239hhh/AI-Study-Planner  
 **README:** https://github.com/1239hhh/AI-Study-Planner/blob/main/README.md  
 **Development record:** See `README.md` in the repository.  
-**Commit:** See the repository commit history for the submission version.
+**Latest project commit:** https://github.com/1239hhh/AI-Study-Planner/commits/main
 
 ## References
 
